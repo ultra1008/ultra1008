@@ -1,4 +1,4 @@
-<h1><i>🥇Software Engineer - Web Apps & Mobile Apps & SaaS Platforms</i></h1>
+<h1><i>🥇Software Engineer - Web Apps & Mobile Apps & SaaS Platforms</i></h1> 
 
 ## Hi 👋, I'm a hard-working IT professional with genuine passion for application development and UI/UX design.
 
