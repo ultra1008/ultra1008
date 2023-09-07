@@ -5,20 +5,17 @@
 <h4>Each year I'm launching various high ROI, custom built web and mobile applications with any level of complexity for my partners from the USA, Europe, and all over the world. This helps my clients win in their marketplace. I have helped big corporations to increase their Profit and become million dollar value companies by building variety of tools for them.</h4>
 
 ## I can help you with:
-<h4>✔ SaaS platforms UX/UI & Full Stack Development
-✔ Complex CRM/ERP systems digital transformation
-✔ Management platforms (Invoices, Payments, Humans, Personnel, etc) design & development
-✔ Mobile Applications Creation
-✔ Progressive Web Applications
-✔ Single Page Applications
-</h4>
+<h4>✔ SaaS platforms UX/UI & Full Stack Development</h4>
+<h4>✔ Complex CRM/ERP systems digital transformation</h4>
+<h4>✔ Management platforms (Invoices, Payments, Humans, Personnel, etc) design & development</h4>
+<h4>✔ Mobile Applications Creation</h4>
+<h4>✔ Progressive Web Applications</h4>
+<h4>✔ Single Page Applications</h4>
 
 ## What's in it for you?
-<h4>
-✔ Velocity – Results driven expectation aligned to your needs
-✔ Veracity – Immutable results supporting adoption
-✔ Value – Delivering industry best practice at Ingestion, Integration, Development and Testing.
-</h4>
+<h4>✔ Velocity – Results driven expectation aligned to your needs</h4>
+<h4>✔ Veracity – Immutable results supporting adoption</h4>
+<h4>✔ Value – Delivering industry best practice at Ingestion, Integration, Development and Testing.</h4>
 
 ## ✍️𝐒𝐊𝐈𝐋𝐋𝐒
 ```• UX Design
