@@ -2,8 +2,8 @@
 
 ```
 👋Hi. I'm a hard-working IT professional with genuine passion for application development and UI/UX design.
-  Each year I'm launching various high ROI, custom built web and mobile applications with any level of complexity for my partners from the USA, Europe,
-and all over the world. This helps my clients win in their marketplace.
+  Each year I'm launching various high ROI, custom built web and mobile applications with any level of complexity
+for my partners from the USA, Europe,and all over the world. This helps my clients win in their marketplace.
 I have helped big corporations to increase their Profit and become million dollar value companies by building variety of tools for them.
 ```
 
