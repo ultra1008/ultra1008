@@ -5,22 +5,22 @@
 
 ## I can help you with:
 ```
-<h4>✔ SaaS platforms UX/UI & Full Stack Development</h4>
-<h4>✔ Complex CRM/ERP systems digital transformation</h4>
-<h4>✔ Management platforms (Invoices, Payments, Humans, Personnel, etc) design & development</h4>
-<h4>✔ Mobile Applications Creation</h4>
-<h4>✔ Progressive Web Applications</h4>
-<h4>✔ Single Page Applications</h4>
+✔ SaaS platforms UX/UI & Full Stack Development
+✔ Complex CRM/ERP systems digital transformation
+✔ Management platforms (Invoices, Payments, Humans, Personnel, etc) design & development
+✔ Mobile Applications Creation
+✔ Progressive Web Applications
+✔ Single Page Applications
 ```
 
 ## What's in it for you?
 ```
-<h4>✔ Velocity – Results driven expectation aligned to your needs</h4>
-<h4>✔ Veracity – Immutable results supporting adoption</h4>
-<h4>✔ Value – Delivering industry best practice at Ingestion, Integration, Development and Testing.</h4>
+<h4>✔ Velocity – Results driven expectation aligned to your needs
+<h4>✔ Veracity – Immutable results supporting adoption
+<h4>✔ Value – Delivering industry best practice at Ingestion, Integration, Development and Testing
 ```
 
-## ✍️𝐒𝐊𝐈𝐋𝐋𝐒
+## ✍️Skills
 ```• UX Design
 • UI Design
 • Rapid Prototyping
@@ -34,7 +34,7 @@
 • Machine Learning
 ```
 
-## 💻𝐓𝐄𝐂𝐇 𝐄𝐗𝐏𝐄𝐑𝐓𝐈𝐒𝐄
+## 💻TECK EXPERTISE
 ```• FIGMA
 • Java, Node.js (Express), Python (Django), Spring
 • Angular, React.js/Redux, Vue.js, HTML5, CSS3, jQuery
