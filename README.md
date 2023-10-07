@@ -2,19 +2,19 @@
 
 ## I can help you with:
 ```
-✔ SaaS platforms UX/UI & Full Stack Development
-✔ Complex CRM/ERP systems digital transformation
-✔ Management platforms (Invoices, Payments, Humans, Personnel, etc) design & development
-✔ Mobile Applications Creation
-✔ Progressive Web Applications
-✔ Single Page Applications
+• SaaS platforms UX/UI & Full Stack Development
+• Complex CRM/ERP systems digital transformation
+• Management platforms (Invoices, Payments, Humans, Personnel, etc) design & development
+• Mobile Applications Creation
+• Progressive Web Applications
+• Single Page Applications
 ```
 
 ## What's in it for you?
 ```
-<h4>✔ Velocity – Results driven expectation aligned to your needs
-<h4>✔ Veracity – Immutable results supporting adoption
-<h4>✔ Value – Delivering industry best practice at Ingestion, Integration, Development and Testing
+• Velocity – Results driven expectation aligned to your needs
+• Veracity – Immutable results supporting adoption
+• Value – Delivering industry best practice at Ingestion, Integration, Development and Testing
 ```
 
 ## ✍️Skills
