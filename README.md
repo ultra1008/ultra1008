@@ -5,6 +5,7 @@
 <hr/>
 
 ## I can help you with:
+
 <h4>✔ SaaS platforms UX/UI & Full Stack Development</h4>
 <h4>✔ Complex CRM/ERP systems digital transformation</h4>
 <h4>✔ Management platforms (Invoices, Payments, Humans, Personnel, etc) design & development</h4>
@@ -13,6 +14,7 @@
 <h4>✔ Single Page Applications</h4>
 
 ## What's in it for you?
+
 <h4>✔ Velocity – Results driven expectation aligned to your needs</h4>
 <h4>✔ Veracity – Immutable results supporting adoption</h4>
 <h4>✔ Value – Delivering industry best practice at Ingestion, Integration, Development and Testing.</h4>
